@@ -8,7 +8,7 @@
 2. Orient ourselves
 3. Jon has some wireframes!
 4. Crush the 1s and 0s
-  1. Jon's wireframes will lead us
+   1. Jon's wireframes will lead us
 5. Switch drivers!! (Assuming Steve gets his dev environment set up ahead of time)
 6. Wrap it up
    1. What did we learn?
