@@ -19,6 +19,7 @@
 
 - https://help.play.date/developer/designing-for-playdate/#sprites
    > For the purposes of this document, we’ll consider “sprites” as playable characters, NPCs, and other moving, visible entities in your game.
+- https://devforum.play.date/t/screen-redraw-and-text/10951/4
 - https://www.youtube.com/watch?v=8OCebUVKlb4
   - I don't think we can watch this on stream
   - Everything you need to know about sprites in the Playdate SDK
